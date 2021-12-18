@@ -10,7 +10,7 @@ using System.Windows.Forms;
 
 namespace File_manadger
 {
-    public partial class Form2 : Form
+    public partial class Pop-up window : Main code
     {
         public DialogResult result;
         public string name;
