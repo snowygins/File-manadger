@@ -12,7 +12,7 @@ using System.Windows.Forms;
 
 namespace File_manadger
 {
-    public partial class Form1 : Form
+    public partial class Main code : Form
     {
         private string filePath = ""; //путь
         private bool isFile = false; //файл
